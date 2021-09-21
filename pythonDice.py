@@ -5,4 +5,11 @@ def rollD6():
   return(rolled)
   print(rolled)
 
- jalla balla
+
+
+def hello():
+  nice = "Hello world!"
+  print (nice)
+  
+hello()  
+ 
