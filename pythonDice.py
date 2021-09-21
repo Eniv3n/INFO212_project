@@ -21,6 +21,6 @@ def roll4d6():
 def hello():
   nice = "Hello world!"
   print (nice)
-  
+  no e koden ødelagt
 hello()  
 
