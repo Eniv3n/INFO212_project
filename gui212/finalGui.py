@@ -12,7 +12,7 @@ master.geometry("700x500+700+500")
 
 #code to run the psuedofile
 def run():
-    os.system('212projv2.py')
+    os.system('../pseudocode/212projv2.py')
 
 #Logo
 image = Image.open("menyferdig.png")
