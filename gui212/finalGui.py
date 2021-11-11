@@ -108,7 +108,7 @@ button_quit.place(x=530,y=375)
 myWidgets = [antall,antallVal,kode,kodeVal,vare,vareVal,erstatt,erstattVal]
  # List of widgets to change colour
 for wid in myWidgets:
-    wid.configure(bg = "grey", padx=45,pady=8)
+    wid.configure(bg = "#c0c0c0", padx=45,pady=8)
 
 
 tk.mainloop()
