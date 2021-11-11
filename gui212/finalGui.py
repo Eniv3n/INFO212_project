@@ -5,7 +5,7 @@ from tkinter import *
 from PIL import ImageTk, Image
 
 master = tk.Tk()
-master.title('Test')
+master.title('MPS')
 master.geometry("700x500+700+500")
 
 #HUSK Å ADDE INFO KNAPP
